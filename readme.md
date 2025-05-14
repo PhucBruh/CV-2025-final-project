@@ -1,0 +1,1 @@
+# A transfer learning project on Pneumonia data set from [kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
